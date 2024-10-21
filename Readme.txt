@@ -1,0 +1,1 @@
+This project helps users prepare PDF Files for use in the new google NoteBook AI solution. 
